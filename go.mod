@@ -1,4 +1,4 @@
-module common
+module github.com/centurydsp/common
 
 go 1.16
 
